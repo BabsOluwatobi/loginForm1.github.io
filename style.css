@@ -1,0 +1,145 @@
+body{
+	background-image: url(images/bg1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 100%;
+	height: auto;
+
+}
+
+div{
+	width: 425px;
+	height: 500px;
+	margin-left: 450px;
+	margin-top: 180px;
+	box-shadow: 0px 0px 5px 5px;
+	
+
+}
+
+h1{
+	font-family: calibri;
+		padding-left: 150px;
+		padding-top: 55px;
+		text-transform: capitalize;
+		color: white;
+	}
+
+#email{
+	width: 370px;
+	height: 28px;
+	margin-left: 20px;
+	padding-left: 18px;
+	font-family: calibri;
+	border: none;
+
+
+}
+
+#Password{
+	width: 370px;
+	height: 28px;
+	margin-left: 20px;
+	padding-left: 18px;
+	margin-top: 10px;
+	font-family: calibri;
+	border: none;
+
+}
+
+#Login_button{
+	width: 390px;
+	margin-left: 20px;
+	height: 37px;
+	font-family: calibri;
+	margin-top: -20px;
+	font-weight: 2px;
+	background-color: rgba(57, 181, 235, 1);
+	border: none;
+	color: white;
+	cursor: pointer;
+
+}
+
+
+#Login_button:hover{
+	width: 390px;
+	margin-left: 20px;
+	height: 37px;
+	font-family: calibri;
+	margin-top: -20px;
+	font-weight: 2px;
+	background-color: black;
+	border: none;
+	color: white;
+
+}
+
+
+h5{
+	margin-left: 20px;
+	margin-top: 10px;
+	color: white;
+	text-decoration: none;
+}
+
+#Facebook{
+	margin-left: 20px;
+	width: 192px;
+	height: 35px;
+	margin-top: -30px;
+	background-color: rgba(61, 133, 198, 1);
+	border: none;
+	color: white;
+	font-style: italic;
+}
+
+#Facebook:hover{
+	margin-left: 20px;
+	width: 192px;
+	height: 35px;
+	margin-top: -30px;
+	background-color: rgb(8, 8, 8);
+	border: none;
+	color: white;
+	font-style: italic;
+}
+
+#Instagram{
+	margin-left: 50;
+	width: 192px;
+	height: 35px;
+	background-color: rgba(250, 58, 131, 1);
+	color: white;
+	font-style: italic;
+	border: none;
+	
+}
+
+#Instagram:hover{
+	margin-left: 50;
+	width: 192px;
+	height: 35px;
+	background-color: rgb(8, 8, 8);
+	color: white;
+	font-style: italic;
+	border: none;
+	
+}
+
+#loginwith{
+	margin-left: 165px;
+
+
+}
+
+h4{
+	margin-left: 100px;
+	color: white;
+}
+
+a{
+	text-decoration: none;
+	color: powderblue;
+}
